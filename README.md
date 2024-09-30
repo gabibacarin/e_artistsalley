@@ -2,7 +2,9 @@
 ## SCC0219 - 2024.2
 
 Aluna: Gabriela Bacarin Marcondes #10873351
---
+
+---
+
 ### Requisitos
 
 <details>
